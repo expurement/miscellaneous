@@ -825,5 +825,5 @@ val translation ={
     "G-Max Finale":"超极巨幸福圆满",
     "G-Max Steelsurge":"超极巨钢铁阵法",
     "G-Max Depletion":"超极巨劣化衰变",
-    "G-Max Stun Shock":"超极巨异毒电场",
+    "G-Max Stun Shock":"超极巨异毒电场"
 }
