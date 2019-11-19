@@ -1,5 +1,5 @@
 val translation ={   
-   "Stench":"恶臭",
+    "Stench":"恶臭",
     "Drizzle":"降雨",
     "Speed Boost":"加速",
     "Battle Armor":"战斗盔甲",
