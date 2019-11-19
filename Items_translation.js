@@ -1,7 +1,7 @@
 var trans={
     "Mail":"邮件",
     "Never-Melt Ice":"不融冰",
-    "King’s Rock":"王者之证",
+    "King's Rock":"王者之证",
     "Poke ball":"精灵球",
     "Stick":"大葱",
     "Heavy-Duty Boots":"厚底靴",
