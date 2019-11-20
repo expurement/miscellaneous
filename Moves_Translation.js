@@ -1,4 +1,5 @@
 val translation ={
+    // Number of Unique Moves: 804
     "Vice Grip":"夹住",
     "Eterna Beam":"无极光束",
     
