@@ -1,4 +1,3 @@
-val translation ={   
     "Stench":"恶臭",
     "Drizzle":"降雨",
     "Speed Boost":"加速",
@@ -258,5 +257,4 @@ val translation ={
     "Pastel Veil":"粉彩护幕",
     "Hunger Switch":"饱了又饿",
     
-    "No Ability":"无特性"
-}
+    "No Ability":"无特性",
