@@ -14,7 +14,13 @@
 // @run-at       document-end
 // ==/UserScript==
 var translations={
+    "Import":"导入",
+    "Types":"属性",
+    "(automatic type)":"自动对应的属性",
     "EVs":"基础点数",
+    "Hidden Power:":"觉醒力量属性：",
+    "You can also set natures by typing \"+\" and \"-\" next to a stat.":"你可以在基础点数框内输入+和-来设定性格",
+    "Protip:":"提示：",
     "IVs":"个体值",
     "IV spreads":"个体值分配",
     "Remaining:":"剩余点数：",
@@ -4976,7 +4982,7 @@ var t= function(originalStr){
             .replace("surrounded itself with its Z-Power!","用Z力量包裹了全身!")
             .replace("No battles are going on right now.","没有正在进行的对战。")
             .replace("Turn","回合")
-            .replace("Hide","返回")
+            .replace("Hide","隐藏")
             .replace("The substitute took damage for the opposing ","对手的替身为它低挡了伤害")
             .replace("Dark mode","夜间模式")
             .replace(" transformed!","转化了！")
