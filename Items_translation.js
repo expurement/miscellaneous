@@ -418,4 +418,4 @@
     "Pink Bow":"粉红色丝带",
     "Polkadot Bow":"水玉色之带",
     
-    "Utility Umbrella":"万能伞"
+    "Utility Umbrella":"万能伞",
