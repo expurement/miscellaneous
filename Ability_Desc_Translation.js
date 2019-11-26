@@ -131,7 +131,7 @@
     "This Pokemon restores 1/3 of its maximum HP, rounded down, when it switches out.":"下场时回复1/3最大HP",
     "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender.":"对方与自身性别相同时威力提升25%，性别不同时下降25%",
     "If this Pokemon is a Silvally, its type changes to match its held Memory.":"银伴战兽的属性随着它携带的存储碟改变",
-    "This Pokemon does not take recoil damage besides Struggle/Life Orb/crash damage.":"不会受到自身招式的反作用力伤害，挣扎、飞踢和飞漆踢除外；生命宝珠的副作用不受影响",
+    "This Pokemon does not take recoil damage besides Struggle/Life Orb/crash damage.":"不会受到自身招式的反作用力伤害，挣扎、飞踢和飞膝踢除外；生命宝珠的副作用不受影响",
     "This Pokemon's Ground/Rock/Steel attacks do 1.3x in Sandstorm; immunity to it.":"沙暴天气下地面/岩石/钢属性招式威力提升30%；免疫沙暴伤害",
     "If Sandstorm is active, this Pokemon's Speed is doubled; immunity to Sandstorm.":"沙暴天气下速度翻倍；免疫沙暴伤害",
     "On switch-in, this Pokemon summons Sandstorm.":"登场时天气变为沙暴",
