@@ -14,6 +14,10 @@
 // @run-at       document-end
 // ==/UserScript==
 var translations={
+    "EVs":"基础点数",
+    "IVs":"个体值",
+    "IV spreads":"个体值分配",
+    "Remaining:":"剩余点数：",
     "Prompt on refresh":"刷新页面时弹出提醒窗口",
     "(Others will be able to see your name change. To change name privately, use \"Log out\")":"其他人可以看到你更改了用户名，想要私下地更改用户名，点击‘登出’按钮",
     "Power":"威力",
@@ -134,7 +138,7 @@ var translations={
     "All teams":"所有队伍",
     "Sp. Def.":"特防",
     "Sp. Atk.":"特攻",
-    "Details":"概况",
+    "Details":"细节",
     "Stats":"能力值",
     "Challenge":"挑战",
     "Work offline":"离线模式",
