@@ -1,4 +1,5 @@
 var translation = {
+    "If held by a Farfetch'd or Sirfetch'd, its critical hit ratio is raised by 2 stages.":"大葱鸭或者葱游兵携带后击中要害的等级提高二级",
     "If held by an Altaria, this item allows it to Mega Evolve in battle.":"七夕青鸟携带可进行超级进化",
     "If held by an Abomasnow, this item allows it to Mega Evolve in battle.":"暴雪王携带可进行超级进化",
     "If held by an Absol, this item allows it to Mega Evolve in battle.":"阿勃梭鲁携带可进行超级进化",
