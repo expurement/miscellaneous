@@ -1,4 +1,3 @@
-var trans ={
     "Bulbasaur":"妙蛙种子",
     "Ivysaur":"妙蛙草",
     "Venusaur":"妙蛙花",
@@ -667,7 +666,7 @@ var trans ={
     "Vivillon":"彩粉蝶",
     "Litleo":"小狮狮",
     "Pyroar":"火炎狮",
-    "Flabébé":"花蓓蓓",
+    "Flabebe":"花蓓蓓",
     "Floette":"花叶蒂",
     "Florges":"花洁夫人",
     "Skiddo":"坐骑小羊",
@@ -1226,4 +1225,3 @@ var trans ={
     "Silvally-*":"银伴战兽-未知属性",
     "Arceus-*":"阿尔宙斯-未知属性",
     "Genesect-*":"盖诺赛克特-未知卡带",
-}
