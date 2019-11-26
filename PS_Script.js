@@ -84,7 +84,7 @@ var translations={
     "Delete":"删除",
     "Team":"队伍",
     "Validate":"确认是否合法",
-    "Add Pokémon":"添加宝可梦",
+    "Add Pokemon":"添加宝可梦",
     "New Team":"新的队伍",
     "Male":"雄性",
     "Female":"雌性",
@@ -204,7 +204,7 @@ var translations={
     "Sleep Clause Mod:":"催眠条款：",
     "Limit one foe put to sleep":"限制对手一只宝可梦进入睡眠状态",
     "Species Clause:":"物种条款：",
-    "Limit one of each Pokémon":"限制使用相同宝可梦",
+    "Limit one of each Pokemon":"限制使用相同宝可梦",
     "OHKO Clause:":"一击必杀条款：",
     "OHKO moves are banned":"限制使用一击濒死技能",
     "Moody Clause:":"心情不定条款：",
@@ -220,7 +220,7 @@ var translations={
     "Swagger Clause:":"虚张声势条款：",
     "Swagger is banned":"限制使用虚张声势技能",
     "Same Type Clause:":"同系条款：",
-    "Pokémon in a team must share a type":"在队伍中的宝可梦必须拥有某个相同的属性",
+    "Pokemon in a team must share a type":"在队伍中的宝可梦必须拥有某个相同的属性",
     "Accuracy Moves Clause:":"命中条款：",
     "Accuracy-lowering moves are banned":"限制使用降低命中的技能",
     "Item Clause:":"物品条款：",
@@ -234,7 +234,7 @@ var translations={
     "Ability Clause:":"特性条款：",
     "Limit two of each ability":"限制队伍最多有两个相同特性",
     "Switch Priority Clause Mod:":"交换条款模式：",
-    "Faster Pokémon switch first":"速度快的宝可梦优先执行交换",
+    "Faster Pokemon switch first":"速度快的宝可梦优先执行交换",
     "Baton Pass Clause:":"接力棒条款：",
     "Limit one Baton Passer, can't pass Spe and other stats simultaneously":"限制只可携带一只习得接力棒技能的宝可梦，不可将速度以及其他能力等级传递给其他宝可梦，不能同时将速度和其他强化属性通过接力棒接走",
 
@@ -3848,7 +3848,7 @@ var translations={
     "User survives attacks this turn with at least 1 HP.":"本回合结束时，自身保留至少1点HP",
     "Summons Light Screen.":"使用后己方处于光墙状态",
     "Causes the target to fall asleep.":"使目标陷入睡眠状态",
-    "5 turns. Grounded: +Grass power, +1/16 max HP."使场地变成青草场地，持续5回合",
+    "5 turns. Grounded: +Grass power, +1/16 max HP.":"使场地变成青草场地，持续5回合",
     "Power doubles during Bounce, Fly, and Sky Drop.":"如果目标处于飞翔状态，威力翻倍",
     "Raises the user's and ally's Attack by 1.":"使用者和同伴的攻击提升1级",
     "Hoopa-U: Lowers user's Def by 1; breaks protect.":"使用者自身防御降低1级，无视守住状态，仅在使用者为解放胡帕时奏效",
@@ -4425,7 +4425,7 @@ var translations={
     "acquired":"获得了",
     "The effects of the weather disappeared.":"天气的影响消失了.",
     "shuddered!":"害怕得胆怯!",
-    "reversed all other Pokémon's auras!":"反转了所有其它宝可梦的气场!",
+    "reversed all other Pokemon's auras!":"反转了所有其它宝可梦的气场!",
     "is drowsing!":"正在打瞌睡!",
     "is radiating a dark aura!":"正在释放暗黑气场!",
     "is radiating a fairy aura!":"正在释放妖精气场!",
@@ -4584,7 +4584,7 @@ var translations={
     "switched Speed with its target!":"与目标交换了速度！",
     "anchored itself with its roots!":"扎下了根！",
     "was blocked by the kicked-up mat!":"被掀起的榻榻米挡住了！",
-    "When the flame touched the powder on the Pokémon, it exploded!":"当火焰接触到宝可梦身上的粉尘时发生了爆炸！",
+    "When the flame touched the powder on the Pokemon, it exploded!":"当火焰接触到宝可梦身上的粉尘时发生了爆炸！",
     "No one will be able to run away during the next turn!":"下一回合结束前所有宝可梦都不能交换！",
     "took aim at":"瞄准了",
     "surrounds itself with electrified terrain!":"的脚下电光飞闪！",
@@ -4720,7 +4720,7 @@ var translations={
     "wore off":"无效了",
     "Arceus-*":"阿尔宙斯",
     "is hurt by the opposing":"受到了伤害来自对手",
-    "All Pokémon that heard the song will faint in three turns!":"所有听到歌声的宝可梦将在3回合后倒下！",
+    "All Pokemon that heard the song will faint in three turns!":"所有听到歌声的宝可梦将在3回合后倒下！",
     "was badly poisoned by the Toxic Orb!":"因为剧毒珠中了剧毒！",
     "the Normal type":"普通属性",
     "the Fighting type":"格斗属性",
@@ -4995,7 +4995,7 @@ var t= function(originalStr){
             .replace(" woke up!","苏醒了！")
             .replace("is hurt!","受伤了！")
             .replace(" ate its ","吃了它的")
-            .replace("reversed all other Pokémon's auras!","反转了所有其它宝可梦的气场!")
+            .replace("reversed all other Pokemon's auras!","反转了所有其它宝可梦的气场!")
             .replace("is drowsing!","正在打瞌睡!")
             .replace("is radiating a dark aura!","正在释放暗黑气场!",)
             .replace("is radiating a fairy aura!","正在释放妖精气场!",)
@@ -5018,7 +5018,7 @@ var t= function(originalStr){
             .replace("Select a format","选择一种分级")
                .replace(" switched items with its target!","与对方交换了持有物！")
             .replace("s Quick Claw let it move first!","先制之爪让他优先行动了")
-            .replace("I hope playing on Pokémon Showdown today can help cheer you up!","我希望今天在Pokémon Showdown上的比赛能让你振作起来！")
+            .replace("I hope playing on Pokemon Showdown today can help cheer you up!","我希望今天在Pokemon Showdown上的比赛能让你振作起来！")
             .replace("empty team","无队伍")
             .replace(" grew drowsy!","变得昏昏欲睡！")
             .replace("Untitled","无标题")
