@@ -5,6 +5,7 @@ var trans={
     "Poke ball":"精灵球",
     "Stick":"大葱",
     "Heavy-Duty Boots":"厚底靴",
+    "Leek":"大葱",
     
     "Abomasite":"暴雪王进化石",
     "Absolite":"阿勃梭鲁进化石",
