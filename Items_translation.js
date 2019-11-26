@@ -1,4 +1,4 @@
-    "Itmes":"对战用道具",
+    "Items":"对战用道具",
     "Popular items":"常用道具",
     "Pokemon-specific items":"特定宝可梦使用的道具",
     "Usually useless items":"多数情况无用的道具",
