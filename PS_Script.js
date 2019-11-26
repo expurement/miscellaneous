@@ -5199,7 +5199,7 @@ function translateElement(element){
             }
             else
                 node.nodeValue=translate(node.nodeValue
-                    .replace("held by","holder is")
+
             );
             //node=elTW.previousNode();
             //QQ(t).remove();
