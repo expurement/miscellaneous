@@ -420,7 +420,7 @@
     "User survives attacks this turn with at least 1 HP.":"本回合结束时，自身保留至少1点HP",
     "Summons Light Screen.":"使用后己方处于光墙状态",
     "Causes the target to fall asleep.":"使目标陷入睡眠状态",
-    "5 turns. Grounded: +Grass power, +1/16 max HP."使场地变成青草场地，持续5回合",
+    "5 turns. Grounded: +Grass power, +1/16 max HP.":"使场地变成青草场地，持续5回合",
     "Power doubles during Bounce, Fly, and Sky Drop.":"如果目标处于飞翔状态，威力翻倍",
     "Raises the user's and ally's Attack by 1.":"使用者和同伴的攻击提升1级",
     "Hoopa-U: Lowers user's Def by 1; breaks protect.":"使用者自身防御降低1级，无视守住状态，仅在使用者为解放胡帕时奏效",
