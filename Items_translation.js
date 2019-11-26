@@ -1,8 +1,11 @@
-var trans={
+    "Itmes":"对战用道具",
+    "Popular items":"常用道具",
+    "Pokemon-specific items":"特定宝可梦使用的道具",
+    "Usually useless items":"通常无用的道具",
     "Mail":"邮件",
     "Never-Melt Ice":"不融冰",
     "King's Rock":"王者之证",
-    "Poke ball":"精灵球",
+    "Poke Ball":"精灵球",
     "Stick":"大葱",
     "Heavy-Duty Boots":"厚底靴",
     "Leek":"大葱",
@@ -379,7 +382,7 @@ var trans={
     "Tyranitarite":"班基拉斯进化石",
     "Ultra Ball":"高级球",
     "Ultranecrozium Z":"究极奈克洛Ｚ",
-    "Upgrade":"升级数据",
+    "Up-Grade":"升级数据",
     "Venusaurite":"妙蛙花进化石",
     "Wacan Berry":"烛木果",
     "Water Gem":"水之宝石",
@@ -415,4 +418,3 @@ var trans={
     "Polkadot Bow":"水玉色之带",
     
     "Utility Umbrella":"万能伞"
-}
