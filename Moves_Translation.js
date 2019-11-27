@@ -1,6 +1,6 @@
     // Number of Unique Moves: 804
     "Vice Grip":"夹住",
-    "Eterna Beam":"无极光束",
+    "Eternabeam":"无极光束",
     
     "Pound":"拍击",
     "Karate Chop":"空手劈",
