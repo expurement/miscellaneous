@@ -242,14 +242,7 @@
     // USUM Move Desc
     "Raises a random stat by 2 and lowers another stat by 1 at the end of each turn.":"每回合结束时随机降低一项能力等级并提升两项能力等级",
     "This Pokemon cannot be made to flinch.":"不会畏缩",
-    "This Pokemon cannot be infatuated or taunted. Gaining this Ability cures it.":"不会陷入着迷和挑衅状态",
+    "This Pokemon cannot be infatuated or taunted.":"不会陷入着迷和挑衅状态",
     "This Pokemon's Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack.":"受到虫/恶/幽灵属性招式攻击后速度提升一级",
     "This Pokemon can hit Ghost types with Normal- and Fighting-type moves.":"一般和格斗属性招式可以攻击到幽灵属性宝可梦", 
-    "This Pokemon cannot be confused. Gaining this Ability while confused cures it.":"不会陷入混乱状态，获得特性时治愈混乱状态",
-
-    //Old Generation
-    "When this Pokemon has 1/3 or less of its max HP, its Fire attacks do 1.5x damage.":"HP低于1/3时火属性招式威力提升50%",
-    "When this Pokemon has 1/3 or less of its max HP, its Bug attacks do 1.5x damage.":"HP低于1/3时虫属性招式威力提升50%",
-    "When this Pokemon has 1/3 or less of its max HP, its Water attacks do 1.5x damage.":"HP低于1/3时水属性招式威力提升50%",
-    "When this Pokemon has 1/3 or less of its max HP, its Grass attacks do 1.5x damage.":"HP低于1/3时，草属性招式威力增加50%",
-    "While this Pokemon is active, Self-Destruct, Explosion, and Aftermath have no effect.":"场上的所有自爆、大爆炸和引爆特性无效",
+    "This Pokemon cannot be confused.":"不会陷入混乱状态",
