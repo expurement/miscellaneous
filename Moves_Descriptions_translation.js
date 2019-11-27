@@ -502,7 +502,10 @@
     "Paralyzes foe(s). BP scales with base move's BP.":"使对方全体陷入麻痹状态，根据原有招式的威力决定极巨招式的威力",
     "Clears field. BP scales with base move's BP.":"消除反射壁、光墙、撒菱、超极巨钢铁阵法和场地型状态的效果，根据原有招式的威力决定极巨招式的威力",
     "Applies Torment to foes. BP scales with base move.":"",
-
+        
+    // USUM Moves
+        
     "Fails when used.":"与训练师的对战中使用会失败",
     "Frees user from hazards, binding, Leech Seed.":"移除己方场地上的撒菱、隐形岩、毒菱和黏黏网；摆脱自身束缚，寄生种子状态",
     "Protects from attacks. Contact: lowers Atk by 2.":"抵挡对手的攻击。如果对手使用了接触类招式，攻击降低2级",
+    "Raises the user's Attack by 1.":"提高使用者1级攻击",
