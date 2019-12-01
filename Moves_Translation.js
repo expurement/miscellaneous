@@ -1,7 +1,4 @@
-    // Number of Unique Moves: 804
-    "Vise Grip":"夹住",
-    "Eternabeam":"无极光束",
-    
+    // Number of Unique Moves: 804    
     "Pound":"拍击",
     "Karate Chop":"空手劈",
     "Double Slap":"连环巴掌",
@@ -12,6 +9,7 @@
     "Ice Punch":"冰冻拳",
     "Thunder Punch":"雷电拳",
     "Scratch":"抓",
+    "Vise Grip":"夹住",
     "Guillotine":"断头钳",
     "Razor Wind":"旋风刀",
     "Swords Dance":"剑舞",
@@ -777,6 +775,7 @@
     "Obstruct":"拦堵",
     "False Surrender":"假跪真撞",
     "Meteor Assault":"流星突击",
+    "Eternabeam":"无极光束",
     "Steel Beam":"铁蹄光线",
     
     
