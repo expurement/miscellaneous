@@ -501,7 +501,7 @@
     "Damages foes for 4 turns. BP scales w/ base move.":"在4回合内持续对对方的宝可梦造成伤害",
     "Paralyzes foe(s). BP scales with base move's BP.":"使对方全体陷入麻痹状态",
     "Clears field. BP scales with base move's BP.":"消除反射壁、光墙、撒菱、超极巨钢铁阵法和场地型状态的效果",
-    "Applies Torment to foes. BP scales with base move.":"",
+    "Applies Torment to foes. BP scales with base move.":"使对手陷入无理取闹状态",
     "User loses 50% max HP.":"使用后损失1/2最大HP",
         
     // USUM Moves
