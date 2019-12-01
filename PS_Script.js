@@ -3911,7 +3911,7 @@ var translations={
     "This Pokemon's Attack is raised by 2 for each of its stats that is lowered by a foe.":"能力阶级被降低时攻击提升两级",
     "On switch-in, strong winds begin until this Ability is not active in battle.":"登场时天气变为乱流，直到该宝可梦离场，除非天气被终结之地和始源之海更改",
     "On switch-in, extremely harsh sunlight begins until this Ability is not active in battle.":"登场时天气变为大日照，直到该宝可梦离场，除非天气被德尔塔气流和始源之海更改",
-    "If this Pokemon is a Mimikyu, the first hit it takes in battle deals 0 neutral damage.":"谜拟Q受到的第一次伤害视为0",
+    "(Mimikyu only) The first hit it takes is blocked, and it takes 1/8 HP damage instead.":"首次受到的伤害改为损失1/8最大HP，该特性只对谜拟Q有效",
     "On switch-in, Attack or Sp. Atk is raised 1 stage based on the foes' weaker Defense.":"登场时，对方防御小于特防时，自身攻击提升一级；否则特攻提升一级",
     "On switch-in, this Pokemon summons Rain Dance.":"登场时天气变为下雨",
     "On switch-in, this Pokemon summons Sunny Day.":"登场时天气变为大晴天",
@@ -4077,8 +4077,8 @@ var translations={
     "At 1/3 or less of its max HP, this Pokemon's attacking stat is 1.5x with Fire attacks.":"HP低于1/3时，火属性招式的威力变为1.5倍",
     "Lowers Speed of all Pokemon except itself when hit by an attack.":"被攻击后，降低除自己以外的所有宝可梦的速度",
     "Prevents Explosion/Mind Blown/Self-Destruct/Aftermath while this Pokemon is active.":"该特性会使自爆、大爆炸和惊爆大头会使用失败，引爆特性不发动",
-    "Boosts the Pokemon's Defense stat when the Pokemon enters a battle.":"出场时，防御会上升",
-    "Boosts the Pokemon's Attack stat when the Pokemon enters a battle.":"出场时，攻击会上升",
+    "On switch-in, this Pokemon's Defense is raised by 1 stage.":"出场时，防御上升1级",
+    "On switch-in, this Pokemon's Attack is raised by 1 stage.":"出场时，攻击上升1级",
     "Boosts the Pokemon's Attack stat but only allows the use of the first selected move.":"攻击获得提升，只能使用上场后使出的第一个招式",
     "Get prey with Surf/Dive. When taking damage, prey is used to attack.":"使用冲浪/潜水后，如果受到攻击会进行反击",
     "Changes between Full Belly and Hangry Mode at the end of each turn.":"每回合结束时会在饥饿花纹和饱腹花纹之间切换",
@@ -4112,24 +4112,17 @@ var translations={
     "Ignores the effects of opposing Pokemon's Abilities and moves that draw in moves.":"能无视具有吸引对手招式效果的特性或招式的影响",
     "Ignores the effects of opposing Pokemon's moves/Abilities that redirect move targets.":"能无视具有吸引对手招式效果的特性或招式的影响",
     "This Pokemon's Special Defense is doubled.":"特防翻倍",
-    "The Pokemon is protected by ice scales, which halve the damage taken from special moves.":"受到特殊攻击的伤害减半",
     "Boosts a random stat (except accuracy/evasion) +2 and another stat -1 every turn.":"每回合结束时随机降低一项能力等级并提升两项能力等级，闪避率/命中率除外",
     "Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or Intimidated.":"受到虫/恶/幽灵属性招式攻击或者被威吓后速度提升一级",
 
     // USUM Move Desc
     "Raises a random stat by 2 and lowers another stat by 1 at the end of each turn.":"每回合结束时随机降低一项能力等级并提升两项能力等级",
     "This Pokemon cannot be made to flinch.":"不会畏缩",
-    "This Pokemon cannot be infatuated or taunted. Gaining this Ability cures it.":"不会陷入着迷和挑衅状态",
+    "This Pokemon cannot be infatuated or taunted.":"不会陷入着迷和挑衅状态",
     "This Pokemon's Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack.":"受到虫/恶/幽灵属性招式攻击后速度提升一级",
     "This Pokemon can hit Ghost types with Normal- and Fighting-type moves.":"一般和格斗属性招式可以攻击到幽灵属性宝可梦", 
-    "This Pokemon cannot be confused. Gaining this Ability while confused cures it.":"不会陷入混乱状态，获得特性时治愈混乱状态",
-
-    //Old Generation
-    "When this Pokemon has 1/3 or less of its max HP, its Fire attacks do 1.5x damage.":"HP低于1/3时火属性招式威力提升50%",
-    "When this Pokemon has 1/3 or less of its max HP, its Bug attacks do 1.5x damage.":"HP低于1/3时虫属性招式威力提升50%",
-    "When this Pokemon has 1/3 or less of its max HP, its Water attacks do 1.5x damage.":"HP低于1/3时水属性招式威力提升50%",
-    "When this Pokemon has 1/3 or less of its max HP, its Grass attacks do 1.5x damage.":"HP低于1/3时，草属性招式威力增加50%",
-    "While this Pokemon is active, Self-Destruct, Explosion, and Aftermath have no effect.":"场上的所有自爆、大爆炸和引爆特性无效",
+    "This Pokemon cannot be confused.":"不会陷入混乱状态",
+    "(Mimikyu only) First hit deals 0 damage, breaks disguise.":"首次伤害视为0，并改变样子，该特性只对谜拟Q有效",
 	
     //battle.js start
 
