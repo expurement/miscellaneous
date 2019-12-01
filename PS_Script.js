@@ -3510,7 +3510,6 @@ var translations={
      "More power the slower the user than the target.":"使用者速度比对手越慢，威力越大",
      "For 5 turns, hail crashes down.":"5回合内为冰雹天气",
      "Lowers the user's Speed by 1.":"使使用者的速度下降1级",
-     "No competitive use.":"没有什么可比较性的用处",
      "Raises the user's Defense by 1.":"使使用者的防御提升1级",
      "Eliminates all stat changes.":"消除所有能力阶级变化",
      "Has 1/4 recoil.":"有1/4的反弹伤害",
