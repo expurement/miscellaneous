@@ -1,5 +1,5 @@
     // Number of Unique Moves: 804
-    "Vice Grip":"夹住",
+    "Vise Grip":"夹住",
     "Eternabeam":"无极光束",
     
     "Pound":"拍击",
