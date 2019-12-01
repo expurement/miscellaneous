@@ -359,4 +359,4 @@
     "If held by a Zacian, this item changes it to Crowned Forme.":"苍响携带会变为剑之王形态",
     "If held by a Zamazenta, this item changes it to Crowned Forme.":"藏玛然特携带会变为盾之王形态",
     "Raises holder's Special Attack by 1 stage after using a sound move. Single use.":"使用声音类招式时，特攻提升一级，使用后消失",
-
+    "Blocks the holder from receiving any effects of Sunny Day/Rain Dance.":"阻止使用者从大晴天/下雨天中获得任何效果",
