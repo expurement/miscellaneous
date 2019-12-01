@@ -336,7 +336,7 @@
     "Can be combined with certain fossils.":"可以和一些特定化石结合",
     "If the holder misses because of accuracy, it raises Speed by 2 stages. Single use.":"招式因命中率影响而落空时，速度会提升二级",
     "When the holder's stats are lowered, it will be switched out of battle.":"携带该道具的宝可梦能力下降时，自身下场与同伴进行替换",
-    "Prevents the effects of traps set on the battlefield.":"",
+    "Prevents the effects of traps set on the battlefield.":"防止携带者受到场地上的陷阱效果",
     "If Trick Room is active, lowers holder's Speed by 1 stage. Single use.":"携带该道具的宝可梦在戏法空间下速度降低一级，使用后消失",
     "If held by a Zacian, this item changes it to Crowned Forme.":"苍响携带会变为剑之王形态",
     "If held by a Zamazenta, this item changes it to Crowned Forme.":"藏玛然特携带会变为盾之王形态",
