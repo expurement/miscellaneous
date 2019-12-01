@@ -384,6 +384,7 @@
     "Ultra Ball":"高级球",
     "Ultranecrozium Z":"究极奈克洛Ｚ",
     "Up-Grade":"升级数据",
+    "Utility Umbrella":"万能伞",
     "Venusaurite":"妙蛙花进化石",
     "Wacan Berry":"烛木果",
     "Water Gem":"水之宝石",
@@ -418,4 +419,4 @@
     "Pink Bow":"粉红色丝带",
     "Polkadot Bow":"水玉色之带",
     
-    "Utility Umbrella":"万能伞",
+    "SilverPowder":"银粉",
