@@ -1342,6 +1342,7 @@ var translations={
     "Usually useless moves":"多数情况无用的招式",
     "Sketched moves":"通过写生获得的招式",
     "Moves":"招式",
+    "Magikarp's Revenge":"鲤鱼王的复仇",
 	
     // Items Translations
 	
@@ -1750,24 +1751,9 @@ var translations={
     "Yache Berry":"番荔果",
     "Zap Plate":"雷电石板",
     "Zoom Lens":"对焦镜",
-
-    // Gen 2 Items only
-    "Berry":"果实",
-    "Gold Berry":"黄金的果实",
-    "PRZ CureBerry":"消除麻痹的果实",
-    "PSN CureBerry":"解毒的果实",
-    "Bitter Berry":"苦涩的果实",
-    "Burnt Berry":"烧烤的果实",
-    "Ice Berry":"冰冻的果实",
-    "Mint Berry":"薄荷的果实",
-    "Miracle Berry":"奇迹的果实",
-    "Mystery Berry":"神奇的果实",
-    "Berserk Gene":"破坏性的遗传因子",
-    "Pink Bow":"粉红色丝带",
-    "Polkadot Bow":"水玉色之带",
     
     "SilverPowder":"银粉",
-
+	
     // Pokemon Translations
        
     "Bulbasaur":"妙蛙种子",
@@ -3308,19 +3294,6 @@ var translations={
     "Halves damage taken from a supereffective Ice-type attack. Single use.":"受到效果绝佳的冰属性招式攻击时伤害减半，使用后消失",
     "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.":"电属性招式威力提升20%，制裁光砾变为电属性",
     "The accuracy of attacks by the holder is 1.2x if it moves after its target.":"出招比目标慢时命中率提升20%",
-    "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.":"（第二世代限定）出场时陷入混乱并提升两级攻击，使用后消失",
-    "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.":"（第二世代限定）HP低于50%时回复10HP，使用后消失",
-    "(Gen 2) Holder is cured if it is confused. Single use.":"（第二世代限定）解除混乱状态，使用后消失",
-    "(Gen 2) Holder is cured if it is frozen. Single use.":"（第二世代限定）解除冰冻状态，使用后消失",
-    "Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade).":"龙属性招式威力提升10%,海刺龙携带后通信交换可以进化为刺龙王",
-    "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.":"（第二世代限定）HP低于50%时回复30HP，使用后消失",
-    "(Gen 2) Holder is cured if it is burned. Single use.":"（第二世代限定）解除灼伤状态，使用后消失",
-    "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.":"（第二世代限定）解除混乱状态，使用后消失",
-    "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.":"（第二世代限定）招式的PP降到0时恢复该招式10点PP，使用后消失",
-    "(Gen 2) Holder's Normal-type attacks have 1.1x power.":"（第二世代限定）一般属性招式威力提升10%",
-    "(Gen 2) Holder cures itself if it is paralyzed. Single use.":"（第二世代限定）解除麻痹状态，使用后消失",
-    "(Gen 2) Holder is cured if it is poisoned. Single use.":"（第二世代限定），解除中毒状态，使用后消失",
-    "(Gen 2) Holder wakes up if it is asleep. Single use.":"（第二世代限定）解除睡眠状态，使用后消失",
     "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.":"习得尖石攻击的鬃岩狼人可以使用狼啸石牙飓风暴",
     "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.":"习得嬉闹的谜拟Q可以使用亲密无间大乱揍",
     "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.":"习得鳞片噪音的杖尾鳞甲龙可以使用炽魂热舞烈音爆",
@@ -3332,11 +3305,6 @@ var translations={
     "Restores 33% max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.":"HP低于25%时回复33%最大HP，如果是减特攻性格则会陷入混乱，使用后消失",
     "Restores 33% max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.":"HP低于25%时回复33%最大HP，如果是减特防性格则会陷入混乱，使用后消失",
     "Restores 33% max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.":"HP低于25%时回复33%最大HP，如果是减速度性格则会陷入混乱，使用后消失",
-    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减特防性格的宝可梦则会陷入混乱，使用后消失",
-    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减攻击性格的宝可梦则会陷入混乱，使用后消失",
-    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减防御性格的宝可梦则会陷入混乱，使用后消失",
-    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减速度性格的宝可梦则会陷入混乱，使用后消失",
-    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减特攻性格的宝可梦则会陷入混乱，使用后消失",
     "Evolves Electabuzz into Electivire when traded.":"电击兽携带后通信交换可进化为电击魔兽",
     "Evolves Seadra into Kingdra when traded.":"海刺龙携带后通信交换可以进化为刺龙王",
     "Evolves Milcery into Alcremie when held and spun around.":"小仙奶携带后滑动摇杆可以进化为霜奶仙",
@@ -3356,12 +3324,19 @@ var translations={
     "Can be combined with certain fossils.":"可以和一些特定化石结合",
     "If the holder misses because of accuracy, it raises Speed by 2 stages. Single use.":"招式因命中率影响而落空时，速度会提升二级",
     "When the holder's stats are lowered, it will be switched out of battle.":"携带该道具的宝可梦能力下降时，自身下场与同伴进行替换",
-    "Prevents the effects of traps set on the battlefield.":"阻止携带者受到场上的陷阱效果",
+    "Prevents the effects of traps set on the battlefield.":"防止携带者受到场地上的陷阱效果",
     "If Trick Room is active, lowers holder's Speed by 1 stage. Single use.":"携带该道具的宝可梦在戏法空间下速度降低一级，使用后消失",
     "If held by a Zacian, this item changes it to Crowned Forme.":"苍响携带会变为剑之王形态",
     "If held by a Zamazenta, this item changes it to Crowned Forme.":"藏玛然特携带会变为盾之王形态",
     "Raises holder's Special Attack by 1 stage after using a sound move. Single use.":"使用声音类招式时，特攻提升一级，使用后消失",
     "Blocks the holder from receiving any effects of Sunny Day/Rain Dance.":"阻止使用者从大晴天/下雨天中获得任何效果",
+
+    // Gen 7 
+    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减特防性格的宝可梦则会陷入混乱，使用后消失",
+    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减攻击性格的宝可梦则会陷入混乱，使用后消失",
+    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减防御性格的宝可梦则会陷入混乱，使用后消失",
+    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减速度性格的宝可梦则会陷入混乱，使用后消失",
+    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.":"HP低于25%时回复1/2最大HP，如果是减特攻性格的宝可梦则会陷入混乱，使用后消失",
 	
     // Moves Desc Translation
 
@@ -3535,6 +3510,7 @@ var translations={
      "More power the slower the user than the target.":"使用者速度比对手越慢，威力越大",
      "For 5 turns, hail crashes down.":"5回合内为冰雹天气",
      "Lowers the user's Speed by 1.":"使使用者的速度下降1级",
+     "No competitive use.":"没有什么可比较性的用处",
      "Raises the user's Defense by 1.":"使使用者的防御提升1级",
      "Eliminates all stat changes.":"消除所有能力阶级变化",
      "Has 1/4 recoil.":"有1/4的反弹伤害",
@@ -3590,7 +3566,7 @@ var translations={
      "If hit by an attack, returns 1.5x damage.":"如果因攻击而受到伤害，则返还1.5倍的伤害",
      "10% chance to raise the user's Attack by 1.":"10%使使用者的攻击上升1级",
      "20% chance to raise the user's Attack by 1.":"20%使使用者的攻击上升1级",
-     "Picks a random move.":"随机使出一个招式",
+     "Picks a random move.":"根据使用者的rp随机使出一个招式",
      "The last move the target used replaces this one.":"这个招式将会变成目标会后使出的招式",
      "Raises the user's evasiveness by 2.":"使使用者的回避率上升2级",
      "Psychic hits Dark. Evasiveness ignored.":"超能属性招式可以命中恶属性无视回避率变化",
@@ -3799,23 +3775,23 @@ var translations={
     "Does many things turn 1. Can't move turn 2.":"使用后下回合不能行动",
     "For 5 turns, the user has immunity to Ground.":"5回合内使自身进入电磁飘浮状态，免疫地面属性招式",
     "Damage doubles if the target used Minimize.":"对变小的目标伤害翻倍",
-    "User: +1 Speed. BP scales with base move's BP.":"提高我方全体的速度",
+    "User/allies: +1 Spe. BP scales w/ base move.":"提高我方全体的速度",
     "Foes: -1 Sp.Def. BP scales with base move's BP.":"降低对手全体的特防",
     "Sets Sun. BP scales with base move's BP.":"使天气转为大晴天",
     "Foes: -1 Sp.Atk. BP scales with base move's BP.":"降低对手全体的特攻",
     "Sets Rain. BP scales with base move's BP.":"使天气转为下雨",
     "Prevents all moves from affecting the user this turn.":"挡下包括极巨招式在内的所有招式",
     "Sets Hail. BP scales with base move's BP.":"使天气转为冰雹",
-    "User: +1 Attack. BP scales with base move's BP.":"提高我方全体的攻击",
+    "User/allies: +1 Atk. BP scales w/ base move.":"提高我方全体的攻击",
     "Sets Electric Terrain. BP scales with base move's BP.":"将场地变成电气场地",
     "Sets Psychic Terrain. BP scales with base move's BP.":"将场地变成精神场地",
-    "User: +1 Sp.Atk. BP scales with base move's BP.":"提高我方全体的特攻",
+    "User/allies: +1 SpA. BP scales w/ base move.":"提高我方全体的特攻",
     "Sets Grassy Terrain. BP scales with base move's BP.":"将场地变成青草场地",
     "Foes: -1 Defense. BP scales with base move's BP.":"降低对手全体的防御",
-    "User: +1 Sp.Def. BP scales with base move's BP.":"提高我方全体的特防",
+    "User/allies: +1 SpD. BP scales w/ base move.":"提高我方全体的特防",
     "Sets Sandstorm. BP scales with base move's BP.":"使天气转为沙暴",
     "Sets Misty Terrain. BP scales with base move's BP.":"将场地变成薄雾场地",
-    "User: +1 Defense. BP scales with base move's BP.":"提高我方全体的防御",
+    "User/allies: +1 Def. BP scales w/ base move.":"提高我方全体的防御",
     "Foes: -1 Speed. BP scales with base move's BP.":"降低对手全体的速度",
     "Foes: -1 Attack. BP scales with base move's BP.":"降低对手全体的攻击",
     "Raises all stats by 1 (not acc/eva). Traps user.":"所有能力提升1级，目标无法交换",
@@ -3868,14 +3844,16 @@ var translations={
     "Paralyzes foe(s). BP scales with base move's BP.":"使对方全体陷入麻痹状态",
     "Clears field. BP scales with base move's BP.":"消除反射壁、光墙、撒菱、超极巨钢铁阵法和场地型状态的效果",
     "Applies Torment to foes. BP scales with base move.":"使对手陷入无理取闹状态",
-
+    "User loses 50% max HP.":"使用后损失1/2最大HP",
+        
     // USUM Moves
+        
     "Fails when used.":"与训练师的对战中使用会失败",
     "Frees user from hazards, binding, Leech Seed.":"移除己方场地上的撒菱、隐形岩、毒菱和黏黏网；摆脱自身束缚，寄生种子状态",
     "Protects from attacks. Contact: lowers Atk by 2.":"抵挡对手的攻击。如果对手使用了接触类招式，攻击降低2级",
 
-
     // Abilities Description
+	
     "If this Pokemon is KOed with a contact move, that move's user loses 1/4 its max HP.":"因接触类招式被击倒时，发动该攻击的宝可梦损失1/4最大HP",
     "This Pokemon's Normal-type moves become Flying type and have 1.2x power.":"一般属性招式变为飞行属性招式，威力提升20%",
     "While this Pokemon is active, the effects of weather conditions are disabled.":"该宝可梦在场时，所有天气的影响都会消失",
@@ -4114,7 +4092,8 @@ var translations={
     "This Pokemon's Special Defense is doubled.":"特防翻倍",
     "Boosts a random stat (except accuracy/evasion) +2 and another stat -1 every turn.":"每回合结束时随机降低一项能力等级并提升两项能力等级，闪避率/命中率除外",
     "Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or Intimidated.":"受到虫/恶/幽灵属性招式攻击或者被威吓后速度提升一级",
-
+    "Does nothing.":"没有任何用途",
+ 
     // USUM Move Desc
     "Raises a random stat by 2 and lowers another stat by 1 at the end of each turn.":"每回合结束时随机降低一项能力等级并提升两项能力等级",
     "This Pokemon cannot be made to flinch.":"不会畏缩",
