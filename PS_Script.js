@@ -14,6 +14,9 @@
 // @run-at       document-end
 // ==/UserScript==
 var translations={
+    "Backup/Restore all teams":"备份所有队伍",
+    "Backup all teams from this folder":"备份该文件夹里的所有队伍",
+    "Base":"种族值",
     "Import":"导入",
     "Types":"属性",
     "(automatic type)":"自动对应的属性",
@@ -83,7 +86,6 @@ var translations={
     "Gender:":"性别:",
     "Happiness:":"亲密度:",
     "Shiny:":"闪光:",
-    "Moves":"招式",
     "Copy":"复制",
     "Import/Export":"导入/导出",
     "Move":"移动",
@@ -510,9 +512,6 @@ var translations={
 	
     // Moves Translation
 
-    "Vice Grip":"夹住",
-    "Eterna Beam":"无极光束",
-    
     "Pound":"拍击",
     "Karate Chop":"空手劈",
     "Double Slap":"连环巴掌",
@@ -523,6 +522,7 @@ var translations={
     "Ice Punch":"冰冻拳",
     "Thunder Punch":"雷电拳",
     "Scratch":"抓",
+    "Vise Grip":"夹住",
     "Guillotine":"断头钳",
     "Razor Wind":"旋风刀",
     "Swords Dance":"剑舞",
@@ -1288,6 +1288,7 @@ var translations={
     "Obstruct":"拦堵",
     "False Surrender":"假跪真撞",
     "Meteor Assault":"流星突击",
+    "Eternabeam":"无极光束",
     "Steel Beam":"铁蹄光线",
     
     
@@ -1337,12 +1338,14 @@ var translations={
     "G-Max Steelsurge":"超极巨钢铁阵法",
     "G-Max Depletion":"超极巨劣化衰变",
     "G-Max Stun Shock":"超极巨异毒电场",
+
     "Usually useless moves":"多数情况无用的招式",
     "Sketched moves":"通过写生获得的招式",
     "Moves":"招式",
 	
     // Items Translations
-    "Itmes":"对战用道具",
+	
+    "Items":"对战用道具",
     "Popular items":"常用道具",
     "Pokemon-specific items":"特定宝可梦使用的道具",
     "Usually useless items":"多数情况无用的道具",
@@ -1728,6 +1731,7 @@ var translations={
     "Ultra Ball":"高级球",
     "Ultranecrozium Z":"究极奈克洛Ｚ",
     "Up-Grade":"升级数据",
+    "Utility Umbrella":"万能伞",
     "Venusaurite":"妙蛙花进化石",
     "Wacan Berry":"烛木果",
     "Water Gem":"水之宝石",
@@ -1762,7 +1766,7 @@ var translations={
     "Pink Bow":"粉红色丝带",
     "Polkadot Bow":"水玉色之带",
     
-    "Utility Umbrella":"万能伞",
+    "SilverPowder":"银粉",
 
     // Pokemon Translations
        
@@ -2996,6 +3000,7 @@ var translations={
 
     // Items Description
 
+    "If held by a Farfetch'd or Sirfetch'd, its critical hit ratio is raised by 2 stages.":"大葱鸭或者葱游兵携带后击中要害的等级提高二级",
     "If held by an Altaria, this item allows it to Mega Evolve in battle.":"七夕青鸟携带可进行超级进化",
     "If held by an Abomasnow, this item allows it to Mega Evolve in battle.":"暴雪王携带可进行超级进化",
     "If held by an Absol, this item allows it to Mega Evolve in battle.":"阿勃梭鲁携带可进行超级进化",
@@ -3316,12 +3321,12 @@ var translations={
     "(Gen 2) Holder cures itself if it is paralyzed. Single use.":"（第二世代限定）解除麻痹状态，使用后消失",
     "(Gen 2) Holder is cured if it is poisoned. Single use.":"（第二世代限定），解除中毒状态，使用后消失",
     "(Gen 2) Holder wakes up if it is asleep. Single use.":"（第二世代限定）解除睡眠状态，使用后消失",
-    "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.":"习得尖石攻击的鬃岩狼人可以使用狼啸石牙飓风暴。",
-    "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.":"习得嬉闹的谜拟Q可以使用亲密无间大乱揍。",
-    "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.":"习得鳞片噪音的杖尾鳞甲龙可以使用炽魂热舞烈音爆。",
-    "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.":"习得流星闪冲的索尔迦雷欧或奈克洛兹玛-黃昏之鬃可以发动特殊Z招式。",
-    "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.":"习得暗影之光的露奈雅拉或奈克洛兹玛-可以发动特殊Z招式。",
-    "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.":"让奈克洛兹玛-黄昏之鬃/拂晓之翼究极爆发再配合光子喷涌使用Z招式。",
+    "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.":"习得尖石攻击的鬃岩狼人可以使用狼啸石牙飓风暴",
+    "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.":"习得嬉闹的谜拟Q可以使用亲密无间大乱揍",
+    "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.":"习得鳞片噪音的杖尾鳞甲龙可以使用炽魂热舞烈音爆",
+    "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.":"习得流星闪冲的索尔迦雷欧或奈克洛兹玛-黃昏之鬃可以发动特殊Z招式",
+    "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.":"习得暗影之光的露奈雅拉或奈克洛兹玛-拂晓之翼可以发动特殊Z招式",
+    "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.":"让奈克洛兹玛-黄昏之鬃/拂晓之翼究极爆发再配合光子喷涌使用Z招式",
     "Restores 33% max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.":"HP低于25%时回复33%最大HP，如果是减攻击性格则会陷入混乱，使用后消失",
     "Restores 33% max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.":"HP低于25%时回复33%最大HP，如果是减防御性格则会陷入混乱，使用后消失",
     "Restores 33% max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.":"HP低于25%时回复33%最大HP，如果是减特攻性格则会陷入混乱，使用后消失",
@@ -3356,80 +3361,8 @@ var translations={
     "If held by a Zacian, this item changes it to Crowned Forme.":"苍响携带会变为剑之王形态",
     "If held by a Zamazenta, this item changes it to Crowned Forme.":"藏玛然特携带会变为盾之王形态",
     "Raises holder's Special Attack by 1 stage after using a sound move. Single use.":"使用声音类招式时，特攻提升一级，使用后消失",
-    "If holder is a Sceptile, this item allows it to Mega Evolve in battle.":"蜥蜴王携带可进行超级进化",
-    "If holder is a Scizor, this item allows it to Mega Evolve in battle.":"巨钳螳螂携带可进行超级进化",
-    "Holder's Flying-type attacks have 1.2x power.":"飞行属性招式威力提升20%",
-    "If holder is a Sharpedo, this item allows it to Mega Evolve in battle.":"巨牙鲨携带可进行超级进化",
-    "Holder may switch out even when trapped by another Pokemon, or by Ingrain.":"必定可以交换，无视任何禁止交换的特性或状态",
-    "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.":"造成伤害后回复伤害量的1/8HP",
-    "Holder's Techno Blast is Electric type.":"携带该道具的宝可梦的高科技光炮变为电属性",
-    "Halves damage taken from a supereffective Ground-type attack. Single use.":"受到效果绝佳的地面属性招式攻击时伤害减半，使用后消失",
-    "Holder's Normal-type attacks have 1.2x power.":"一般属性招式威力提升20%",
-    "Holder's Bug-type attacks have 1.2x power.":"虫属性招式威力提升20%",
-    "Restores 1/4 max HP when at 1/2 max HP or less. Single use.":"HP低于50%时回复最大HP的1/4，使用后消失",
-    "Can be revived into Cranidos.":"可以用来复活头盖龙",
-    "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.":"飞行属性招式威力提升20%，制裁光砾变为飞行属性",
-    "If holder is a Slowbro, this item allows it to Mega Evolve in battle.":"呆河马携带可进行超级进化",
-    "Holder's use of Sandstorm lasts 8 turns instead of 5.":"引起的沙暴天气从5回合延长至8回合",
-    "If holder is a Snorlax with Giga Impact, it can use Pulverizing Pancake.":"卡比兽携带后可以将超级冲击转化成Z招式：认真起来大爆击",
-    "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.":"受到冰属性招式攻击时攻击提升一级，使用后消失",
-    "Holder's Ground-type attacks have 1.2x power.":"地面属性招式威力提升20%",
-    "If holder is a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.":"拉帝亚斯/拉帝欧斯携带后龙属性和超能力属性招式威力提升20%",
-    "Holder's Ghost-type attacks have 1.2x power.":"幽灵属性招式威力提升20%",
-    "Holder's Water-type attacks have 1.2x power. Judgment is Water type.":"水属性招式威力提升20%，制裁光砾变为水属性",
-    "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.":"幽灵属性招式威力提升20%，制裁光砾变为幽灵属性",
-    "A special Poke Ball for the Bug-Catching Contest.":"在捕虫大赛上使用的特殊的球",
-    "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.":"HP低于25%时随机提升一项能力两级，使用后消失",
-    "If holder is a Steelix, this item allows it to Mega Evolve in battle.":"大钢蛇携带可进行超级进化",
-    "Holder's first successful Steel-type attack will have 1.3x power. Single use.":"使用钢属性招式时提升本次攻击30%的威力，使用后消失",
-    "Holder's Multi-Attack is Steel type.":"银伴战兽携带变成钢属性，携带该道具的宝可梦的多属性攻击变为钢属性",
-    "If holder has a Steel move, this item allows it to use a Steel Z-Move.":"拥有钢属性招式的携带者可以使用钢属性Z招式",
-    "If holder is a Farfetch'd, its critical hit ratio is raised by 2 stages.":"大葱鸭携带后击中要害等级提升两级",
-    "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.":"每回合损失最大HP的1/8，受到接触类招式伤害时对方获得该道具",
-    "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.":"岩石属性招式威力提升20%，制裁光砾变为岩石属性",
-    "If holder is a Swampert, this item allows it to Mega Evolve in battle.":"巨沼怪携带可进行超级进化",
-    "Halves damage taken from a supereffective Bug-type attack. Single use.":"受到效果绝佳的虫属性招式攻击时伤害减半，使用后消失",
-    "If holder is a Tapu with Nature's Madness, it can use Guardian of Alola.":"守护神携带后可以将自然之怒转化成Z招式：巨人卫士·阿罗拉",
-    "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.":"引起的场地从5回合延长至8回合",
-    "If holder is a Cubone or a Marowak, its Attack is doubled.":"嘎啦嘎啦携带后攻击翻倍",
-    "A Poke Ball that becomes better the more turns there are in a battle.":"随着战斗回合数增加而变得更好的特殊的球",
-    "At the end of every turn, this item attempts to badly poison the holder.":"回合结束时进入剧毒状态",
-    "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.":"毒属性招式威力提升20%，制裁光砾变为毒属性",
-    "If holder is a Tyranitar, this item allows it to Mega Evolve in battle.":"班基拉斯携带可进行超级进化",
-    "An ultra-performance Ball that provides a higher catch rate than a Great Ball.":"比起超级球来更容易捉到宝可梦的，性能非常不错的球",
-    "If holder is a Venusaur, this item allows it to Mega Evolve in battle.":"妙蛙花携带可进行超级进化",
-    "Halves damage taken from a supereffective Electric-type attack. Single use.":"受到效果绝佳的电属性招式攻击时伤害减半，使用后消失",
-    "Holder's first successful Water-type attack will have 1.3x power. Single use.":"使用水属性招式时提升本次攻击30%的威力，使用后消失",
-    "Holder's Multi-Attack is Water type.":"银伴战兽携带变成水属性，携带该道具的宝可梦的多属性攻击变为水属性",
-    "If holder has a Water move, this item allows it to use a Water Z-Move.":"拥有水属性招式的携带者可以使用水属性Z招式",
-    "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.":"受到效果绝佳的伤害时攻击和特攻提升两级，使用后消失",
-    "Restores all lowered stat stages to 0 when one is less than 0. Single use.":"将所有能力等级低于0的能力回复至0，使用后消失",
-    "The accuracy of attacks by the holder is 1.1x.":"命中率提升10%",
-    "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.":"HP低于25%时回复最大HP的一半，如果是减特攻性格的宝可梦则会陷入混乱，使用后消失",
-    "Holder's special attacks have 1.1x power.":"特殊招式威力提升10%",
-    "Halves damage taken from a supereffective Ice-type attack. Single use.":"受到效果绝佳的冰属性招式攻击时伤害减半，使用后消失",
-    "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.":"电属性招式威力提升20%，制裁光砾变为电属性",
-    "The accuracy of attacks by the holder is 1.2x if it moves after its target.":"出招比目标慢时命中率提升20%",
-    "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.":"（第二世代限定）出场时陷入混乱并提升两级攻击，使用后消失",
-    "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.":"（第二世代限定）HP低于50%时回复10HP，使用后消失",
-    "(Gen 2) Holder is cured if it is confused. Single use.":"（第二世代限定）解除混乱状态，使用后消失",
-    "(Gen 2) Holder is cured if it is frozen. Single use.":"（第二世代限定）解除冰冻状态，使用后消失",
-    "(Gen 2) Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade).":"（第二世代限定）龙属性招式威力提升10%,海刺龙携带通信可以进化为刺龙王",
-    "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.":"（第二世代限定）HP低于50%时回复30HP，使用后消失",
-    "(Gen 2) Holder is cured if it is burned. Single use.":"（第二世代限定）解除灼伤状态，使用后消失",
-    "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.":"（第二世代限定）解除混乱状态，使用后消失",
-    "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.":"（第二世代限定）招式的PP降到0时恢复该招式10点PP，使用后消失",
-    "(Gen 2) Holder's Normal-type attacks have 1.1x power.":"（第二世代限定）一般属性技能威力提升10%",
-    "(Gen 2) Holder cures itself if it is paralyzed. Single use.":"（第二世代限定）解除麻痹状态，使用后消失",
-    "(Gen 2) Holder is cured if it is poisoned. Single use.":"（第二世代限定），解除中毒状态，使用后消失",
-
-    "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.":"习得尖石攻击的鬃岩狼人可以使用狼啸石牙飓风暴。",
-    "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.":"习得嬉闹的谜拟Q可以使用亲密无间大乱揍。",
-    "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.":"习得鳞片噪音的杖尾鳞甲龙可以使用炽魂热舞烈音爆。",
-    "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.":"习得流星闪冲的索尔迦雷欧或奈克洛兹玛-黃昏之鬃可以发动特殊Z技能。",
-    "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.":"习得暗影之光的露奈雅拉或奈克洛兹玛-可以发动特殊Z技能。",
-    "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.":"让奈克洛兹玛-黄昏之鬃/拂晓之翼究极爆发再配合光子喷涌使用Z技能。",
-
+    "Blocks the holder from receiving any effects of Sunny Day/Rain Dance.":"阻止使用者从大晴天/下雨天中获得任何效果",
+	
     // Moves Desc Translation
 
     "Very high critical hit ratio.":"十分容易击中要害",
@@ -3602,7 +3535,6 @@ var translations={
      "More power the slower the user than the target.":"使用者速度比对手越慢，威力越大",
      "For 5 turns, hail crashes down.":"5回合内为冰雹天气",
      "Lowers the user's Speed by 1.":"使使用者的速度下降1级",
-     "No competitive use.":"没有什么可比较性的用处",
      "Raises the user's Defense by 1.":"使使用者的防御提升1级",
      "Eliminates all stat changes.":"消除所有能力阶级变化",
      "Has 1/4 recoil.":"有1/4的反弹伤害",
@@ -4161,7 +4093,6 @@ var translations={
     "When hit by a contact move, the Pokemon and the attacker faint in 3 turns.":"受到接触攻击时，3回合后攻击者和自身都会倒下，交换解除效果",
     "If an active ally has this Ability or the Minus Ability, this Pokemon's Sp. Atk is 1.5x.":"场上己方同伴具有负电或正电特性时，特攻变为1.5倍",
     "Boosts sound move power, 0.5× damage from sound moves.":"提升声音类招式的威力，受到声音类招式的伤害减半",
-    "Boosts sound move power, 0.5× damage from sound moves.":"提升声音类招式的威力，受到声音类招式的伤害减半",
     "Ripens Berries and doubles their effect.":"树果的效果翻倍",
     "The Pokemon creates a sandstorm when it's hit by an attack.":"受到攻击时使天气变为沙暴",
     "Removes Screens and Veil Effects on switchin.":"出场时时我方和对方的反射壁、光墙和极光幕都会消失",
@@ -4201,7 +4132,6 @@ var translations={
     "While this Pokemon is active, Self-Destruct, Explosion, and Aftermath have no effect.":"场上的所有自爆、大爆炸和引爆特性无效",
 	
     //battle.js start
-
 
     "The sunlight turned harsh!":"阳光变得刺眼了！",
     "s Drought intensified the sun's rays!":"的日照加强了太阳的光芒！",
@@ -4724,7 +4654,6 @@ var translations={
     "knocked off the opposing":"打落了对手的",
     "taunt":"挑拨",
     "wore off":"无效了",
-    "Arceus-*":"阿尔宙斯",
     "is hurt by the opposing":"受到了伤害来自对手",
     "All Pokemon that heard the song will faint in three turns!":"所有听到歌声的宝可梦将在3回合后倒下！",
     "was badly poisoned by the Toxic Orb!":"因为剧毒珠中了剧毒！",
@@ -4746,9 +4675,6 @@ var translations={
     "the Dark type":"恶属性",
     "the Fairy type":"妖精属性",
 
-    "Fairy Gem":"妖精珠宝",
-    "BrightPowder":"光粉",
-    "SilverPowder":"银粉",
     "Register":"注册",
     "Register your account:":"注册你的账号：",
     "Username:":"用户名：",
