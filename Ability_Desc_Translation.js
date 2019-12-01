@@ -236,7 +236,8 @@
     "This Pokemon's Special Defense is doubled.":"特防翻倍",
     "Boosts a random stat (except accuracy/evasion) +2 and another stat -1 every turn.":"每回合结束时随机降低一项能力等级并提升两项能力等级，闪避率/命中率除外",
     "Speed is raised 1 stage if hit by a Bug-, Dark-, or Ghost-type attack, or Intimidated.":"受到虫/恶/幽灵属性招式攻击或者被威吓后速度提升一级",
-
+    "Does nothing.":"没有任何用途",
+ 
     // USUM Move Desc
     "Raises a random stat by 2 and lowers another stat by 1 at the end of each turn.":"每回合结束时随机降低一项能力等级并提升两项能力等级",
     "This Pokemon cannot be made to flinch.":"不会畏缩",
