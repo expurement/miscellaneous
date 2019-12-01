@@ -829,3 +829,4 @@
     "Usually useless moves":"多数情况无用的招式",
     "Sketched moves":"通过写生获得的招式",
     "Moves":"招式",
+    "Magikarp's Revenge":"鲤鱼王的复仇",
