@@ -1,0 +1,10 @@
+    "Backup/Restore all teams":"备份所有队伍",
+    "Backup all teams from this folder":"备份该文件夹里的所有队伍",
+    "Base":"种族值",
+    "Import":"导入",
+    "Types":"属性",
+    "(automatic type)":"自动对应的属性",
+    "Hidden Power:":"觉醒力量属性：",
+    "You can also set natures by typing \"+\" and \"-\" next to a stat.":"你可以在基础点数框内输入+和-来设定性格",
+    "Protip:":"提示：",
+    
