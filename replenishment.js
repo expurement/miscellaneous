@@ -59,7 +59,6 @@
     "Slow":"慢",
     "Really Slow":"极慢",
     "Music:":"音乐：",
-    "Color scheme:":"颜色板式：",
     "Play (music off)":"播放（关闭音乐）",
     "Reset":"重置",
     "Next turn":"下一回合",
