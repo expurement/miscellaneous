@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Showdown Translation
 // @namespace    http://tampermonkey.net/
-// @version      1.4
-// @description  PSChina Server Translation剑盾测试先行版汉化脚本已发布，对汉化内容有疑问请联系圣光(QQ:964323779)
+// @version      1.41
+// @description  PSChina Server Translation剑盾汉化脚本，接受玩家截图/描述反馈
 // @author       Ceca3
 // @match        http://china.psim.us/*
 // @match        http://47.94.147.145.psim.us/*
@@ -15,6 +15,7 @@
 // @run-at       document-end
 // ==/UserScript==
 var translations={
+    "Join other room":"加入其他房间",
     "Battles:":"战斗房间：",
     "Chatrooms:":"聊天室：",
     "(Idle)":"闲置",
@@ -62,7 +63,7 @@ var translations={
     "Ability:":"特性：",
     "(before items/abilities/modifiers)":"（不计算道具/特性/加成）",
     "(fainted)":"",
-    "Waiting for players...":"等待选手行动...",
+    "Waiting for players...":"等待玩家行动...",
     "Spectators ignored.":"观战者消息已经被忽略",
     "Spectators no longer ignored.":"观战者的消息已经不再忽略",
     "Opponent ignored.":"对手的消息已经被忽略",
@@ -93,6 +94,7 @@ var translations={
     "Go to turn...":"跳至...回合",
     "Resume":"恢复",
     "Battle timer is ON: inactive players will automatically lose when time's up.":"战斗机计时器已经开启：玩家若不行动则在时间耗尽后会输掉比赛",
+
 
     "EVs":"基础点数",
     "IVs":"个体值",
