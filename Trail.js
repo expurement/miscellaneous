@@ -15,6 +15,7 @@
 // @run-at       document-end
 // ==/UserScript==
 var translations={
+    // User Interface 
     "Join other room":"加入其他房间",
     "Battles:":"战斗房间：",
     "Chatrooms:":"聊天室：",
@@ -1360,8 +1361,7 @@ var translations={
     "Meteor Assault":"流星突击",
     "Eternabeam":"无极光束",
     "Steel Beam":"铁蹄光线",
-
-
+    
     "Hidden Power Bug":"觉醒力量-虫",
     "Hidden Power Dark":"觉醒力量-恶",
     "Hidden Power Dragon":"觉醒力量-龙",
@@ -1824,7 +1824,7 @@ var translations={
 
     "SilverPowder":"银粉",
 
-    // Pokemon Translations
+    // Pokemon Translation
 
     "Bulbasaur":"妙蛙种子",
     "Ivysaur":"妙蛙草",
@@ -4174,7 +4174,8 @@ var translations={
     "This Pokemon cannot be confused.":"不会陷入混乱状态",
     "(Mimikyu only) First hit deals 0 damage, breaks disguise.":"首次伤害视为0，并改变样子，该特性只对谜拟Q有效",
 
-
+    // Battle Stream
+    
     "had its HP restored.":"回复了它的HP！",
     "The sunlight turned harsh!":"阳光变得刺眼了！",
     "s Drought intensified the sun's rays!":"的日照加强了太阳的光芒！",
