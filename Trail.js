@@ -4527,7 +4527,7 @@ var translations={
     "is protected by Safeguard!":"收到了神秘守护的保护",
     "can no longer escape!":"不能逃脱！",
     "was caught in a sticky web!":"陷入了粘网",
-    "Everyone is caught up in the happy atmosphere!":"“大家都沉浸在欢乐的气氛中！",
+    "Everyone is caught up in the happy atmosphere!":"大家都沉浸在欢乐的气氛中！",
     "Congratulations,":"祝贺",
     "switched items with its target!":"交换了对方的道具",
     "shattered":"击碎了",
