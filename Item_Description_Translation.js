@@ -21,7 +21,7 @@
     "A special Poke Ball for the Bug-Catching Contest.":"在捕虫大赛上使用的特殊的球",
     "A special Poke Ball for the Pal Park.":"在伙伴公园里使用的特殊的球",
     "A special Poke Ball that appears out of nowhere in a bag at the Entree Forest.":"在连入之森中，不知何时出现在包包里的梦中球",
-    "A special Poke Ball that is used only in the Safari Zone and Great Marsh.":"仅能在狩猎地带和大湿地中使用的特殊的球,上面有迷彩花纹",
+    "A special Poke Ball that is used only in the Safari Zone and Great Marsh.":"仅能在狩猎地带和大湿地中使用的特殊的球，上面有迷彩花纹",
     "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.":"造成伤害后，将伤害量的1/8用于回复HP",
     "An ultra-performance Ball that provides a higher catch rate than a Great Ball.":"比起超级球来更容易捉到宝可梦的，性能非常不错的球",
     "At the end of every turn, holder restores 1/16 of its max HP.":"回合结束时回复1/16最大HP",
