@@ -181,7 +181,7 @@
     "Holder's first successful Steel-type attack will have 1.3x power. Single use.":"使用钢属性招式时提升本次攻击30%的威力，使用后消失",
     "Holder's first successful Water-type attack will have 1.3x power. Single use.":"使用水属性招式时提升本次攻击30%的威力，使用后消失",
     "Holder's moves are protected from adverse contact effects, except Pickpocket.":"使用接触类招式攻击时，不会受到本应受到的效果，对顺手牵羊特性无效",
-    "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.":"HP小于等于25%时命中率增加20%，使用后消失",
+    "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.":"HP小于等于25%时命中率提升20%，使用后消失",
     "Holder's partial-trapping moves always last 7 turns.":"绑紧招式造成的束缚状态固定持续7回合",
     "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.":"绑紧招式造成的束缚伤害从1/8提升至1/6",
     "Holder's physical attacks have 1.1x power.":"物理招式威力提升10%",
@@ -340,8 +340,8 @@
     "The holder's type immunities granted solely by its typing are negated.":"受到攻击时，不会出现因属性相性引发的没有效果",
     "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.":"用作极限特训，提升所有个体值到最大值",
     "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.":"用作极限特训，提升一项个体值到最大值",
-    "When the holder's stats are lowered, it will be switched out of battle.":"携带该道具的宝可梦能力下降时，自身下场与同伴进行替换",
-    "If held by a Farfetch'd or Sirfetch'd, its critical hit ratio is raised by 2 stages.":"大葱鸭或者葱游兵携带后击中要害的阶级提高2级",
+    "When the holder's stats are lowered, it will be switched out of battle.":"携带该道具的宝可梦能力阶级降低时，自身下场与同伴进行替换",
+    "If held by a Farfetch'd or Sirfetch'd, its critical hit ratio is raised by 2 stages.":"大葱鸭或者葱游兵携带后击中要害的阶级提升2级",
 
     // Gen 7
     "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.":"HP小于等于25%时回复1/2最大HP，减特防性格会陷入混乱，使用后消失",
