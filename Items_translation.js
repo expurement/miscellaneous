@@ -409,8 +409,8 @@
      // Gen 2 Items only
     "Berry":"果实",
     "Gold Berry":"黄金的果实",
-    "PRZ CureBerry":"消除麻痹的果实",
-    "PSN CureBerry":"解毒的果实",
+    "PRZ Cure Berry":"消除麻痹的果实",
+    "PSN Cure Berry":"解毒的果实",
     "Bitter Berry":"苦涩的果实",
     "Burnt Berry":"烧烤的果实",
     "Ice Berry":"冰冻的果实",
